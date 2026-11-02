@@ -51,5 +51,5 @@ TensorFlow/Keras.
 ## 📫 Connect with me
 
 - GitHub: https://github.com/NishiNincia
-- LinkedIn: [Add your LinkedIn URL]
-- Kaggle: [Add your Kaggle URL]
+- LinkedIn: https://www.linkedin.com/in/nishi-nincia/
+- Kaggle: 
