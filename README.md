@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Nishi Nincia 👋
 
-<!--
-**NishiNincia/NishiNincia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Undergraduate | AI/ML | Software Development
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate interested in building
+practical AI systems and software applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on applied AI, computer vision and edge AI projects
+- 💻 Interested in Software Engineering, AI/ML and Full-Stack Development
+- 🧠 Exploring deep learning, model evaluation and intelligent systems
+- 🌱 Continuously improving my problem-solving and development skills
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, C++, Java, SQL
+
+**AI/ML:** PyTorch, TensorFlow/Keras, OpenCV,
+NumPy, Pandas, scikit-learn
+
+**Development:** React, Django, Spring Boot,
+Node.js, REST APIs, PostgreSQL
+
+**Cloud & Tools:** AWS, Git, GitHub
+
+## 🚀 Featured Projects
+
+### 1. Cross-Modal Skin Imaging
+Dermoscopy-to-OCT-like image synthesis using CycleGAN.
+Exploring cross-modal medical image translation.
+
+### 2. CareerCrafts
+A job search and skill-building platform with
+role-based interfaces and REST APIs.
+
+### 3. SecureVitals
+An ESP32-based wearable health-monitoring prototype
+with sensor integration and fall-detection logic.
+
+### 4. Dog-Cat Classifier
+A CNN-based image classification project using
+TensorFlow/Keras.
+
+## 🎯 Areas of Interest
+
+- Software Engineering
+- Artificial Intelligence and Machine Learning
+- Computer Vision
+- Full-Stack Development
+- Edge AI and IoT
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/NishiNincia
+- LinkedIn: [Add your LinkedIn URL]
+- Kaggle: [Add your Kaggle URL]
