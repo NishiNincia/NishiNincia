@@ -3,7 +3,8 @@
 </p>
 
 
-### Computer Science Undergraduate | AI/ML | Software Development
+### Aspiring Software Engineer | Applied AI/ML & Computer Vision
+Building scalable software solutions and intelligent systems through Full-Stack Development, Machine Learning and Computer Vision.
 
 I'm a Computer Science undergraduate interested in building
 practical AI systems and software applications.
